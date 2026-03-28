@@ -8,7 +8,7 @@ I work at the intersection of **live performance technology**, **music productio
 
 ## 🎛️ What I Do
 
-By day I’m deep in live events and theatre — show control systems, audio/video technical direction, Dolby Atmos mixing, and complex multi-system integrations for touring and installation work. By night (and honestly, also by day) I’m building software tools to make that world run better.
+By day I’m deep in live events and theatre — show control systems, audio/video technical direction, Dolby Atmos mixing, and complex multi-system integrations for touring and installation work. By night (and honestly, also by day) I’m building software tools to make my work run better.
 
 My background spans:
 
@@ -24,8 +24,6 @@ My background spans:
 
 **studio60-crm** — A Vercel/Supabase web app with a normalized multi-domain schema covering inventory, productions, CRM, quoting, and rentals. REST-first API design with selective GraphQL for agent queries.
 
-**OpenClaw Agent Automation** — Server-side agent workflows on DigitalOcean, routed through Cloudflare/Caddy, with Microsoft Teams integration via Azure Bot Service.
-
 -----
 
 ## 🔧 Stack & Tools
@@ -40,35 +38,13 @@ Audio/AV      Pro Tools · Ableton Live · Dante · grandMA3 · MOTU
 Tooling       Jira · Git · Azure Bot Service · Home Assistant
 ```
 
------
-
-## 🎯 Interests & Side Quests
-
-- **DAW Plugin Development** — exploring audio tooling concepts, including a “mastered stems” processor concept for gain curve extraction and residual distribution
-- **Home Automation** — Apple ecosystem-centric smart home with Home Assistant experimentation on a segmented UniFi VLAN network
-- **Local AI Inference** — Mac Studio M3 Ultra as primary dev + inference machine; RTX 4090 for fine-tuning experiments
-
------
-
-## 🏢 About the Companies
-
-**BTLX Inc.** — Technical services, systems integration, and software consulting for the entertainment industry.
-
-**Studio 60 Records LLC** — Creative agency work in music and live entertainment — production, coordination, and ecosystem orchestration for music industry clients.
-
------
-
-## 📫 Get in Touch
-
-Working on something at the intersection of live entertainment, music tech, or AI tooling? Let’s talk.
+----
 
 - 🌐 [studio60records.com](https://studio60.co)
 - 💼 [LinkedIn](https://linkedin.com/in/btodoy)
 - 🐙 [GitHub](https://github.com/Cheezeiii365)
 
 -----
-
-*NYC-based. Currently accepting select consulting engagements.*
 <!---
 Cheezeiii365/Cheezeiii365 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
